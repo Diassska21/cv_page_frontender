@@ -10,4 +10,4 @@
 ```
 [CV page repository](https://github.com/Diassska21/cv_page_frontender)
 
-![image](assets/avatar.png)s
+![image](assets/avatar.png)
